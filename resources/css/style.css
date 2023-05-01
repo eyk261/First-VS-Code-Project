@@ -13,3 +13,20 @@ nav {
     color: aqua;
     background-color: brown;
 }
+#main_menu li{
+  display: inline-block;
+  background-color: red;
+  border:5px solid;
+  list-style: none;
+  padding: 3px;
+  border-radius: 5px 5px;  
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.footer {
+    background-color: brown;
+}
